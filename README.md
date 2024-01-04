@@ -1,2 +1,3 @@
-# LinguCanada
- Translation-static
+# KidzHut
+Catering website for my dearest sis gaya
+
