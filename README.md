@@ -1,0 +1,2 @@
+# LinguCanada
+ Translation-static
