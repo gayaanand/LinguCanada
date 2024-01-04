@@ -1,3 +1,4 @@
-# KidzHut
-Catering website for my dearest sis gaya
+# LinguCanada
+Translation from all Indian lanaguages to English
+
 
